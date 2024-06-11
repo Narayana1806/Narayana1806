@@ -1,3 +1,4 @@
+![logo](https://github.com/Narayana1806/Narayana1806/blob/main/P.V.LAkshmi%20Narayana.png)
 <h1 align="center">Hi 👋, I'm Pirla Venkata Lakshmi Narayan</h1>
 <h3 align="center">M S Excel , S.Q.L Learner, Programmer</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
